@@ -15,7 +15,7 @@
 
   <a href="https://github.com/MauricioMarque/Portfolio" target="_blank">
     <img 
-      src="https://img.shields.io/static/v1?message=Portfolio%20Directory&logo=github&label=&color=2ea44f&logoColor=white&style=for-the-badge" 
+      src="https://img.shields.io/static/v1?message=Portfolio%20&logo=github&label=&color=2ea44f&logoColor=white&style=for-the-badge" 
       height="25" 
       alt="portfolio logo"  
     />
